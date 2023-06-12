@@ -93,6 +93,14 @@ public class CalculatorUI {
                 return firstNumber / secondNumber;
             case '%':
                 return firstNumber % secondNumber;
+            case '%':
+                return firstNumber % secondNumber;
+            case '%':
+                return firstNumber % secondNumber;
+            case '%':
+                return firstNumber % secondNumber;
+            case '%':
+                return firstNumber % secondNumber;
             case '^':
                 return Math.pow(firstNumber, secondNumber);
             default:
